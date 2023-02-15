@@ -9,4 +9,3 @@
 
 [![](https://img.shields.io/badge/github-yellow?style=for-the-badge)](https://github.com/nurcankahyaersolak)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurcan-ersolak-4919381a2)
-<a href="mailto:nurcankahyaersolak@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
